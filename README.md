@@ -5,5 +5,5 @@ The main actions performed by the script are:
 - Filling in the name
 - Writing a message with the current epoch time
 - Selecting the radio button for Automation Testing experience
-- Checking the checkboxes for Java, Selenium, and TestNG
+- Checking the checkboxes for Java, Selenium
 - Selecting the appropriate dropdown option
